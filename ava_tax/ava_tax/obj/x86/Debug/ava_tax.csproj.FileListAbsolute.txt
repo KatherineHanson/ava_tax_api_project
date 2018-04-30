@@ -1,0 +1,11 @@
+/Users/katherinehanson/Projects/ava_tax/ava_tax/bin/Debug/ava_tax.exe
+/Users/katherinehanson/Projects/ava_tax/ava_tax/bin/Debug/ava_tax.pdb
+/Users/katherinehanson/Projects/ava_tax/ava_tax/bin/Debug/Avalara.AvaTax.RestClient.net45.dll
+/Users/katherinehanson/Projects/ava_tax/ava_tax/bin/Debug/Newtonsoft.Json.dll
+/Users/katherinehanson/Projects/ava_tax/ava_tax/bin/Debug/Avalara.AvaTax.RestClient.net45.pdb
+/Users/katherinehanson/Projects/ava_tax/ava_tax/bin/Debug/Avalara.AvaTax.RestClient.net45.xml
+/Users/katherinehanson/Projects/ava_tax/ava_tax/bin/Debug/Newtonsoft.Json.xml
+/Users/katherinehanson/Projects/ava_tax/ava_tax/obj/x86/Debug/ava_tax.csprojResolveAssemblyReference.cache
+/Users/katherinehanson/Projects/ava_tax/ava_tax/obj/x86/Debug/ava_tax.csproj.CoreCompileInputs.cache
+/Users/katherinehanson/Projects/ava_tax/ava_tax/obj/x86/Debug/ava_tax.exe
+/Users/katherinehanson/Projects/ava_tax/ava_tax/obj/x86/Debug/ava_tax.pdb

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{C47D3A58-962E-42A9-A5FC-3881F2649E83}|Default">
+  <MonoDevelop.Ide.ItemProperties.ava__tax PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ava_tax/Program.cs">
+    <Files>
+      <File FileName="ava_tax/Program.cs" Line="11" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
