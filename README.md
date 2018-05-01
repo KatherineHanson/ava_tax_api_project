@@ -1,2 +1,2 @@
-# ava_tax_api_project
+# avatax api project
 test app for Avatax API
